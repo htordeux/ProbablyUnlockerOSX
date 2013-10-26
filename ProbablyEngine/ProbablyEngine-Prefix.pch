@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ProbablyEngine' target in the 'ProbablyEngine' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
